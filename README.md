@@ -5,3 +5,5 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=T-alis&color=ff69b4)
 
 ![banner](https://github.com/T-alis/T-alis/assets/143585043/f9c8dfec-4a5b-4166-ab04-7c7375caea54)
+
+[![Linkedin](https://img.shields.io/github/link/T-alis?style=social)](https://www.linkedin.com/in/tiarealvarez/)
