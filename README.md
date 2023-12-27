@@ -9,13 +9,13 @@
 
 <h2> About Me </h2>
 <p>
-▪️ Hello!✨ My name is Tiare, I am a passionate recent graduate programmer with a focus on full-stack Python. My fascination with technology blends with my love for design and art, creating a unique and versatile profile.
+▪️ Hello!✨ My name is Tiare, recent graduate programmer with a focus on Full Stack . My fascination with technology blends with my love for design and art, creating a unique and versatile profile.
 </p>
 <p>
 ▪️ I believe that aesthetics and functionality go hand in hand to create exceptional experiences, and I am always looking for innovative ways to improve.
 </p>
 <p>
-▪️ I am always open to new collaborations and exciting opportunities. Contact me to discuss ideas or projects!👩‍💻
+▪️ Always open to new collaborations and exciting opportunities. Contact me to discuss ideas or projects!👩‍💻
 
 <h2>Skills</h2>
 <h3>Lenguages</h3>
